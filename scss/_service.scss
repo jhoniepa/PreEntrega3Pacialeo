@@ -1,0 +1,22 @@
+.images-service {
+    width: 256px;
+    height: 256px;
+   }
+   .card-logo {
+    display: flex;
+    justify-content: center;
+   }
+   .service-description {
+    padding-bottom: 0.5rem;
+    font-size: 2rem;
+    color: $background-color;
+    margin-top: 2rem;
+   }
+   .list-service {
+    list-style: none;
+    margin: 0.5rem;
+    font-size: 1.5rem;
+    line-height: 3rem;
+    margin-bottom: 2rem;
+   }
+   

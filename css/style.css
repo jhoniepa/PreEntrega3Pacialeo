@@ -1,0 +1,166 @@
+.main-title {
+  font-size: 7rem;
+  font-weight: bold;
+  padding: 1rem 1rem 0 1rem;
+  color: #5d0080;
+}
+
+.service-title {
+  font-size: 3.5rem;
+  font-weight: bold;
+  padding: 1rem 1rem 0 1rem;
+  color: #5d0080;
+}
+
+.main-subtitle {
+  padding: 0rem 0rem 1.5rem 0rem;
+  font-size: 3rem;
+  color: #a198c4;
+}
+
+header {
+  background-color: #a198c4;
+  top: 0;
+}
+
+.menu {
+  background: #a198c4;
+}
+
+.nav-link {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.images-service {
+  width: 256px;
+  height: 256px;
+}
+
+.card-logo {
+  display: flex;
+  justify-content: center;
+}
+
+.service-description {
+  padding-bottom: 0.5rem;
+  font-size: 2rem;
+  color: #a198c4;
+  margin-top: 2rem;
+}
+
+.list-service {
+  list-style: none;
+  margin: 0.5rem;
+  font-size: 1.5rem;
+  line-height: 3rem;
+  margin-bottom: 2rem;
+}
+
+.row__destiny {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2.5rem;
+  align-items: flex-start;
+}
+
+.destiny__title {
+  text-align: center;
+  padding-top: 2rem;
+  margin: 1rem;
+  color: #5d0080;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+footer {
+  background-color: #a198c4;
+  color: white;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.footer-list {
+  list-style: none;
+}
+
+.img-logo {
+  width: 10rem;
+}
+
+.contact__title {
+  text-align: center;
+  padding-top: 2rem;
+  color: #5d0080;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.contact__description {
+  text-align: center;
+}
+
+form {
+  text-align: center;
+  padding: 1rem 0 3rem 0;
+}
+
+.form__line {
+  padding: 1rem;
+}
+
+.form__name {
+  border: 0;
+  padding: 1rem;
+  border: #a198c4 solid 1px;
+  border-radius: 20px;
+}
+
+.form__surname {
+  border: 0;
+  padding: 1rem;
+  border: #a198c4 solid 1px;
+  border-radius: 20px;
+}
+
+.form__mail {
+  border: 0;
+  padding: 1rem;
+  border: #a198c4 solid 1px;
+  border-radius: 20px;
+}
+
+.form__tel {
+  border: 0;
+  padding: 1rem;
+  border: #a198c4 solid 1px;
+  border-radius: 20px;
+}
+
+textarea {
+  border: 0;
+  padding: 1rem;
+  border: #a198c4 solid 1px;
+  border-radius: 20px;
+}
+
+.form__button {
+  padding: 0.5rem;
+}
+
+.form__send {
+  background-color: transparent;
+  color: #5d0080;
+  border: #5d0080 solid 3px;
+  font-size: 1rem;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 0.5rem;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=style.css.map */

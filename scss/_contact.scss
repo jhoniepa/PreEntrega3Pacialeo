@@ -1,0 +1,61 @@
+.contact__title {
+  text-align: center;
+  padding-top: 2rem;
+  color: $primary-color;
+  font-size: 2rem;
+  font-weight: bold;
+}
+.contact__description {
+  text-align: center;
+}
+form {
+  text-align: center;
+  padding: 1rem 0 3rem 0;
+}
+.form__line {
+  padding: 1rem;
+}
+.form__name {
+  border: 0;
+  padding: 1rem;
+  border: $background-color solid 1px;
+  border-radius: 20px;
+}
+.form__surname {
+  border: 0;
+  padding: 1rem;
+  border: $background-color solid 1px;
+  border-radius: 20px;
+}
+.form__mail {
+  border: 0;
+  padding: 1rem;
+  border: $background-color solid 1px;
+  border-radius: 20px;
+}
+.form__tel {
+  border: 0;
+  padding: 1rem;
+  border: $background-color solid 1px;
+  border-radius: 20px;
+}
+textarea {
+  border: 0;
+  padding: 1rem;
+  border: $background-color solid 1px;
+  border-radius: 20px;
+}
+.form__button {
+  padding: 0.5rem;
+}
+.form__send {
+  background-color: transparent;
+  color: $primary-color;
+  border: $primary-color solid 3px;
+  font-size: 1rem;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 0.5rem;
+  border-radius: 20px;
+  cursor: pointer;
+}

@@ -1,0 +1,16 @@
+.row__destiny {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2.5rem;
+    align-items: flex-start;
+   }
+   .destiny__title {
+    text-align: center;
+    padding-top: 2rem;
+    margin: 1rem;
+    color: $primary-color;
+    font-size: 2rem;
+    font-weight: bold;
+   }
+   
